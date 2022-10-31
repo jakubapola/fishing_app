@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015626356790",
+    "project_id": "my-fishing-app111",
+    "storage_bucket": "my-fishing-app111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015626356790:android:75485c9355fe2689e3e097",
+        "android_client_info": {
+          "package_name": "com.jakubapola.fishing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015626356790-gijundl9o56v83hlrk53cd3ihrcjelth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdAhNQa2iFhQsh4Qq9wiKapdqhmEK3A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015626356790-gijundl9o56v83hlrk53cd3ihrcjelth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
